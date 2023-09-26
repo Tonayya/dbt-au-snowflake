@@ -25,7 +25,4 @@ from source_data
 */
 
 -- where id is not null
--- bla 
--- blaaaaaa
--- meowwww
--- testing still
+
